@@ -1,3 +1,5 @@
+"""   code by @PragatiBabbar   """
+
 # importing the modules
 from time import strftime
 from tkinter import Label, Tk
